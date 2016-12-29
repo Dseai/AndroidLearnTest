@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:background="@color/white"
+    tools:showIn="@layout/fragment_text_tab">
+    <TextView
+        android:id="@+id/tv_home"
+       style="@style/ViewPager_navigation_bar_tab_style"
+        android:drawableTop="@drawable/home"
+        android:text="@string/home"/>
+    <TextView
+        android:id="@+id/tv_location"
+        style="@style/ViewPager_navigation_bar_tab_style"
+        android:drawableTop="@drawable/location"
+        android:text="@string/location"/>
+    <TextView
+        android:id="@+id/tv_like"
+        style="@style/ViewPager_navigation_bar_tab_style"
+        android:drawableTop="@drawable/like"
+        android:text="@string/like"/>
+    <TextView
+        android:id="@+id/tv_person"
+        style="@style/ViewPager_navigation_bar_tab_style"
+        android:drawableTop="@drawable/person"
+        android:text="@string/Me"/>
+
+</LinearLayout>

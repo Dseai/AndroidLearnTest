@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 当选中按钮时使用home_fill 没选中状态下使用 home 图标-->
+    <item android:drawable="@drawable/home_fill" android:state_checked="true"/>
+    <item android:drawable="@drawable/home"/>
+</selector>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="hello">hello</string>
+    <string name="home">home</string>
+    <string name="location">location</string>
+    <string name="like">like</string>
+    <string name="person">person</string>
+    <string name="Me">Me</string>
+    <string name="drawer_layout_open">Open</string>
+    <string name="drawer_layout_close">Close</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add1"
+        android:icon="@drawable/actionbar_add_icon"
+        app:showAsAction="ifRoom"
+        android:title="添加"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/delete1"
+        android:icon="@drawable/ic_menu_delete"
+        app:showAsAction="ifRoom"
+        android:title="删除"
+        android:orderInCategory="100"/>
+
+</menu>

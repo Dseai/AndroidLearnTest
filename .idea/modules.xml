@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidTest.iml" filepath="$PROJECT_DIR$/AndroidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BottomNavigationBarForAndroid/BottomNavigationBarForAndroid.iml" filepath="$PROJECT_DIR$/BottomNavigationBarForAndroid/BottomNavigationBarForAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_recyclerview/Demo_recyclerview.iml" filepath="$PROJECT_DIR$/Demo_recyclerview/Demo_recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chesscover/chesscover.iml" filepath="$PROJECT_DIR$/chesscover/chesscover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationtest/notificationtest.iml" filepath="$PROJECT_DIR$/notificationtest/notificationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pathtest/pathtest.iml" filepath="$PROJECT_DIR$/pathtest/pathtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plangame/plangame.iml" filepath="$PROJECT_DIR$/plangame/plangame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textinputlayoutdemo/textinputlayoutdemo.iml" filepath="$PROJECT_DIR$/textinputlayoutdemo/textinputlayoutdemo.iml" />
+    </modules>
+  </component>
+</project>
